@@ -1,2 +1,4 @@
 venv/
 .idea/
+tok.py
+*.json
